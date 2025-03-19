@@ -1,0 +1,353 @@
+<Shared:{B0=0, B1=0, B2=0, B3=0, B4=0, B5=0, B6=0, B7=0},<pid0, PC=51, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.51: STORE B0 = *
+<Shared:{B0=1, B1=0, B2=0, B3=0, B4=0, B5=0, B6=0, B7=0},<pid0, PC=52, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.52: STORE B1 = *
+<Shared:{B0=1, B1=1, B2=0, B3=0, B4=0, B5=0, B6=0, B7=0},<pid0, PC=53, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.53: STORE B2 = *
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=0, B5=0, B6=0, B7=0},<pid0, PC=54, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.54: STORE B3 = *
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=0, B5=0, B6=0, B7=0},<pid0, PC=55, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.55: STORE B4 = *
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=56, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.56: STORE B5 = *
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=57, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.57: STORE B6 = 0
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=58, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.58: STORE B7 = 0
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=59, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.59: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=60, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.60: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=61, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.61: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=62, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.62: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=63, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.63: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=64, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.64: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=65, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.65: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=66, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.66: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=67, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.67: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Statement: n1 = 0 */
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=68, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.68: NOP
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=69, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.69: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=70, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.70: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=71, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.71: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=72, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.72: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=73, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.73: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=74, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.74: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=75, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.75: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=76, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.76: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B2: (n1 > n2) */
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=77, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.77: STORE B2 = CHOOSE((((t2 != 0) && (t4 != 0)) || ((t3 == 0) && (t4 != 0))), false); 
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B3: (n2 >= n1) */
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=78, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.78: STORE B3 = CHOOSE((((t5 != 0) || ((t2 == 0) && (t4 != 0))) || ((t3 != 0) && (t4 != 0))), false); 
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B4: (n1 = 0) */
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=79, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.79: STORE B4 = CHOOSE(true, false); 
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=80, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.80: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Statement: n2 = 0 */
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=81, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.81: NOP
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=82, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.82: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=83, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.83: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=84, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.84: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=85, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.85: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=86, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.86: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=87, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.87: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=88, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.88: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=89, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.89: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B2: (n1 > n2) */
+<Shared:{B0=1, B1=1, B2=1, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=90, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.90: STORE B2 = CHOOSE((((t2 != 0) && (t5 != 0)) || ((t3 == 0) && (t5 != 0))), false); 
+<Shared:{B0=1, B1=1, B2=0, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B3: (n2 >= n1) */
+<Shared:{B0=1, B1=1, B2=0, B3=0, B4=1, B5=0, B6=0, B7=0},<pid0, PC=91, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.91: STORE B3 = CHOOSE((((t4 != 0) || ((t2 == 0) && (t5 != 0))) || ((t3 != 0) && (t5 != 0))), false); 
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=0, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B5: (n2 = 0) */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=0, B6=0, B7=0},<pid0, PC=92, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.92: STORE B5 = CHOOSE(true, false); 
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=93, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.93: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Statement: ch1 = 0 */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=94, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.94: NOP
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=95, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.95: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=96, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.96: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=97, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=1, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.97: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=98, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=0, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.98: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=99, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.99: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=100, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.100: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=101, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.101: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=102, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.102: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B0: (ch1 = 1) */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=103, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.103: STORE B0 = CHOOSE(false, false); 
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=104, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.104: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Statement: ch2 = 0 */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=105, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.105: NOP
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=106, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.106: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=107, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.107: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=108, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.108: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=109, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.109: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=110, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.110: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=111, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.111: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=112, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.112: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=113, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.113: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B1: (ch2 = 1) */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=114, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.114: STORE B1 = CHOOSE(false, false); 
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=115, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.115: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Statement: cs1 = 0 */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=116, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.116: NOP
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=117, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.117: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=118, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.118: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=119, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.119: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=120, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.120: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=121, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.121: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=122, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.122: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=123, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.123: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=124, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.124: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B6: (cs1 = 1) */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=0, B7=0},<pid0, PC=125, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.125: STORE B6 = CHOOSE(false, false); 
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=126, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.126: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Statement: cs2 = 0 */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=127, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.127: NOP
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=128, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.128: LOAD t0 = B0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=129, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.129: LOAD t1 = B1
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=130, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.130: LOAD t2 = B2
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=131, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.131: LOAD t3 = B3
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=132, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.132: LOAD t4 = B4
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=133, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.133: LOAD t5 = B5
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=134, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.134: LOAD t6 = B6
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=135, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.135: LOAD t7 = B7
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* update predicate - B7: (cs2 = 1) */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=0},<pid0, PC=136, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.136: STORE B7 = CHOOSE(false, false); 
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=137, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.137: ASSUME !((((((t2 != 0) && (t3 != 0)) || ((t2 == 0) && (t3 == 0))) || (((t2 != 0) && (t4 != 0)) && (t5 != 0))) || (((t3 == 0) && (t4 != 0)) && (t5 != 0))))
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.0: /* Reset local variables */
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=138, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=1, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.138: t0 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=139, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=1, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.139: t1 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=140, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.140: t2 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=141, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=1, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.141: t3 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=142, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=1, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.142: t4 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=143, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=1, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.143: t5 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=144, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=1, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.144: t6 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=145, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.145: t7 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=146, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.146: ifvar12 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=147, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.147: ifvar18 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=148, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.148: ifvar32 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=149, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.149: ifvar38 = 0
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=-2, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+
+0.-2: BARRIER
+<Shared:{B0=1, B1=1, B2=0, B3=1, B4=1, B5=1, B6=1, B7=1},<pid0, PC=-1, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid1, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> ,<pid2, PC=0, {ifvar12=0, ifvar18=0, ifvar32=0, ifvar38=0, t0=0, t1=0, t2=0, t3=0, t4=0, t5=0, t6=0, t7=0}> >
+

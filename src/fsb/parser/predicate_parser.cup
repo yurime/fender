@@ -1,0 +1,99 @@
+package fsb.parser;
+import java_cup.runtime.*;
+import fsb.ast.*;
+import java.util.ArrayList;
+
+scan with {: return lexer.next_token(); :};
+
+
+parser code {: 
+  public boolean syntaxErrors;
+
+
+  PredLexer lexer;
+
+  public PredicateParser(PredLexer lex) {
+      super(lex);
+      lexer = lex;
+  }
+
+  
+  public void report_error(String message, Object info) {
+    syntaxErrors = true;
+    
+    System.out.println(message);
+    
+    if ( !(info instanceof Symbol) ) return;
+    Symbol symbol = (Symbol) info;
+    
+    if ( symbol.left < 0 || symbol.right < 0 ) return;
+    
+    System.out.println(" at line "+symbol.left+", column "+symbol.right);
+  }
+:}; 
+
+terminal		PLUS, MINUS, MUL;
+terminal		NEQ, LESS, GREATER;
+terminal		AND, OR, NOT;
+terminal		ASSIGN;
+terminal		LEFTPAREN, RIGHTPAREN;
+terminal	Boolean	TRUE, FALSE;
+terminal	Integer	NUMBER;
+terminal	String	IDENT;
+
+non terminal	BoolExpr	bool_expr;
+non terminal	AritExpr	arit_expr;
+non terminal	ArrayList<BoolExpr>	program;
+
+
+precedence left OR;
+precedence left AND;
+precedence left NOT;
+precedence left PLUS, MINUS;
+precedence left MUL;
+
+program ::= /*empty set */
+	{: RESULT = new ArrayList<BoolExpr>();:}
+	| program:p bool_expr:b 
+	{: RESULT = p; RESULT.add(b); :};
+	
+
+bool_expr ::=  MUL
+	{: RESULT = new NondetBool(); :}
+	| TRUE
+	{: RESULT = new ConstBool(true); :} 
+	| FALSE
+	{: RESULT = new ConstBool(false); :} 
+	| LEFTPAREN bool_expr:e RIGHTPAREN
+	{: RESULT = e; :}
+	| bool_expr:l OR bool_expr:r
+	{: RESULT = new ComplexBool(l, r, BoolExpr.BXType.OR); :}
+	| bool_expr:l AND bool_expr:r
+	{: RESULT = new ComplexBool(l, r, BoolExpr.BXType.AND); :}
+	| NOT bool_expr:l
+	{: RESULT = new NotBool(l); :}
+	| arit_expr:l ASSIGN arit_expr:r
+	{: RESULT = new ComparsionBool(l, r, BoolExpr.BXType.EQUAL); :}
+	| arit_expr:l LESS ASSIGN arit_expr:r
+	{: RESULT = new ComparsionBool(l, r, BoolExpr.BXType.LE); :}
+	| arit_expr:l GREATER ASSIGN arit_expr:r
+	{: RESULT = new ComparsionBool(l, r, BoolExpr.BXType.GE); :}
+	| arit_expr:l NEQ arit_expr:r
+	{: RESULT = new ComparsionBool(l, r, BoolExpr.BXType.NEQ); :}
+	| arit_expr:l LESS arit_expr:r
+	{: RESULT = new ComparsionBool(l, r, BoolExpr.BXType.LESS); :}
+	| arit_expr:l GREATER arit_expr:r
+	{: RESULT = new ComparsionBool(l, r, BoolExpr.BXType.GREATER); :};
+
+arit_expr ::= IDENT:i
+	{: RESULT = new LocalExpr(i); :}
+	| NUMBER:i
+	{: RESULT = new ConstExpr(i); :}
+	| LEFTPAREN arit_expr:e RIGHTPAREN
+	{: RESULT = e; :}
+	| arit_expr:l PLUS arit_expr:r
+	{: RESULT = new ComplexAritExpr(l, r, AritExpr.AXType.PLUS); :}
+	| arit_expr:l MINUS arit_expr:r
+	{: RESULT = new ComplexAritExpr(l, r, AritExpr.AXType.MINUS); :}
+	| arit_expr:l MUL arit_expr:r
+	{: RESULT = new ComplexAritExpr(l, r, AritExpr.AXType.MUL); :};

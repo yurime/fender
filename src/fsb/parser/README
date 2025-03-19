@@ -1,0 +1,29 @@
+generating the parser:
+--------------------
+uses CUP v0.11a beta 20060608 in file java-cup-11a.jar
+http://www2.cs.tum.edu/projects/cup/docs.php#running
+
+basic running:  java - jar java-cup-11a.jar {FLAGS} blender.cup 
+
+flags of interest:
+"-parser name" : Output parser and action code into a file (and class) with the given name instead of the default of "parser".
+
+"-symbols name" :Output the symbol constant code into a class with the given name instead of the default of "sym".
+
+
+generating the lexer
+--------------------
+uses JFlex 1.4.3 in file  
+http://jflex.de/
+
+basic running: java -jar JFlex.jar blender.lex
+
+
+from within the ".lex" file.
+--
+to change the generated lexClass:
+%class Lexer
+--
+%public
+Makes the generated class public (the class is only accessible in its own package by default).
+--
