@@ -1,20 +1,19 @@
-Fender -- a model checker for boolean programs
-# To compile:
-# dependencies 
+# Fender -- a model checker for boolean programs
+## dependencies: 
 - java 8
 - libz3-java -- if predicate inference use is desired
 
-# To run:
+## To run:
 java -jar ./lib/fender_experimental.jar {filename}.bl sc
 
 
-## The mandatory arguments to fender are:
+### The mandatory arguments to fender are:
 
  <the name of the program to analize> 
  (sc ~~|pso|set|must|may~~) 
 
 For now, the only available option is: sc  
-## optional arguments are:are
+### optional arguments are:are
  -errorPath (succinct|onlyComments|full|none)
 
  -synthesizePredicatesInto <predicateFileName>
