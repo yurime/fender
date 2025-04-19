@@ -33,7 +33,7 @@ This version is only for boolean programs and assumes Sequential Consistency.
  `-predicateSynthesisMethod (Interp|WP)`
  
 >In what method to synthesize predicates. \"Interp\" for interpolation; \"WP\" for Weakest Precondition.
-default \"WP\"
+Default \"WP\"
 
  `-debugLevel \<an int indicating the debug level\>`
  
@@ -75,9 +75,9 @@ Default is HashMap
 
  `-printIntermediateMemConsumption`
 
-print intermediate memory consumption
+>Print intermediate memory consumption
 
  `-searchHeuristics (DFS|BFS)`
 
->chooses if the exploration method will be DFS or BFS.
+>Chooses if the exploration method will be DFS or BFS.
 default is DFS;
