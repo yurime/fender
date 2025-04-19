@@ -1,67 +1,83 @@
 # Fender -- a model checker for boolean programs
+Largly based on a model checker for relaxed memory models by Michael Kuperstain.
+This version is only for boolean programs and assumes Sequential Consistency.
+
 ## dependencies: 
 - java 8
 - libz3-java -- if predicate inference use is desired
 
 ## To run:
-java -jar ./lib/fender_experimental.jar {filename}.bl sc
+java -jar ./lib/fender.jar {filename}.bl sc
 
 
 ### The mandatory arguments to fender are:
 
- <the name of the program to analize> 
- (sc ~~|pso|set|must|may~~) 
+ {the name of the program to analize} 
+ 
+ (sc | pso | set | must | may) 
 
-For now, the only available option is: sc  
-### optional arguments are:are
- -errorPath (succinct|onlyComments|full|none)
+>For now, the only available option is: sc  
+### Optional arguments are:
+ "-errorPath (succinct|onlyComments|full|none)"
 
- -synthesizePredicatesInto <predicateFileName>
-Set this option for predicate inference
-	and  -predicateFile <predicateFileName>
-    needs LD_LIBRARY_PATH be set to the location of libz3java.so
+ "-synthesizePredicatesInto \<predicateFileName\>"
+
+>Set this option for predicate inference. Requires also
+	" -predicateFile \<predicateFileName\> " flag and
+    needs LD_LIBRARY_PATH to be set to the location of libz3java.so
     
- -predicateFile <predicateFileName>
-for predicate inference from the error trace using this option one should specify the predicate file with which the boolean program was created". Can be empty.
+"-predicateFile \<predicateFileName\>"
 
- -predicateSynthesisMethod <Interp|WP>
-in what method to synthesize predicates. \"Interp\" for interpolation; \"WP\" for Weakest Precondition.
+>For predicate inference from the error trace. Using this option one should specify the predicate file with which the boolean program was created. Can be an empty file.
+
+ "-predicateSynthesisMethod (Interp|WP)"
+ 
+>In what method to synthesize predicates. \"Interp\" for interpolation; \"WP\" for Weakest Precondition.
 default \"WP\"
 
- -debugLevel <an int indicating the debug level>
-default is 0 
+ "-debugLevel \<an int indicating the debug level\>"
+ 
+>Default is 0 
 
- -printUsedCubes (true|perStatement|false)\"
-default is false 
+" -printUsedCubes (true|perStatement|false)"
 
- -trackLabel (pc[<DesiredPID>]=<DesiredLabel>)\"
-to print the program state each time the execution reaches label <DesiredLabel> at program id <DesiredPID>
+>Default is false 
 
- -deleteStatesInAtomics (True|False)  
-delete states in atomics
-default is true
+" -trackLabel (pc[\<DesiredPID\>]=\<DesiredLabel\>)"
 
- -keepTransitionSystem (True|False)
-keep or not the transition system 
-default is false
+>To print the program state each time the execution reaches label \<DesiredLabel\> at program id \<DesiredPID\>
 
- -subsLev (<Int>)
-set subsumption level
-where -1 will turn the subsumption level off
-default is -1
+ "-deleteStatesInAtomics (True|False)  "
 
- -stateSpace (HashMap|Trie)
-setting the state space structure type 
-for trie you can add a numeric parameter
-\"-stateSystem Trie (no_opt|optm1|optm2|optm3)\" describing the desired level of optimization
-default is HashMap
+>Delete states in atomics.
+Default is true
 
- -invokeGCBeforeEndStatistics
-requesting the garbage collector to be activated before the printout of the end statistics
+ "-keepTransitionSystem (True|False)"
+ 
+>To keep or not the transition system.
+Default is false.
 
- -printIntermediateMemConsumption
- print intermediate memory consumption"
+" -subsLev \<Int\>"
 
- -searchHeuristics (DFS|BFS)
-chooses if the exploration method will be DFS or BFS.
+>Set subsumption level.
+Where -1 will turn the subsumption level off.
+Default is -1
+
+" -stateSpace (HashMap|Trie)"
+
+>Setting the state space structure type.
+For trie you can add a parameter describing the desired level of optimization \"-stateSystem Trie (no_opt|optm1|optm2|optm3)\".
+Default is HashMap
+
+ "-invokeGCBeforeEndStatistics"
+
+>Requesting the garbage collector to be activated before the printout of the end statistics
+
+ "-printIntermediateMemConsumption"
+
+print intermediate memory consumption"
+
+ "-searchHeuristics (DFS|BFS)"
+
+>chooses if the exploration method will be DFS or BFS.
 default is DFS;
