@@ -1,5 +1,5 @@
 # Fender -- A Model Checker for Boolean Programs
-Largly based on a model checker for relaxed memory models by Michael Kuperstein.
+Largely based on a model checker for relaxed memory models by Michael Kuperstein.
 This version is only for boolean programs and assumes Sequential Consistency.
 
 ## Dependencies: 
